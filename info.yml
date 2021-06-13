@@ -1,0 +1,4 @@
+language: Erlang
+---
+
+A simple Erlang server that sends submission from the contact form.
